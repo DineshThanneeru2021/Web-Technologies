@@ -1,0 +1,20 @@
+/**********************************************************************************/
+#cssdemo.css file
+body{
+background-color:white;
+
+}
+h1{
+	align:left;
+    background-color:green;
+}
+/*****************************************************************************/
+#html_css.html file
+
+<html>
+<body>
+<link href="cssdemo.css" rel="stylesheet">
+welcome
+<h1>LBRCE</h1>
+</body>
+</html>
