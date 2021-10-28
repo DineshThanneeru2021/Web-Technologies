@@ -1,0 +1,24 @@
+<html>
+<head>
+
+<style>
+
+p{font-size:20;color:green;background-color:pink;}
+
+h1{color:red;background-color:green;}
+h2{border:dotted blue;}
+</style>
+
+</head>
+<body>
+<p>LBRCE college </p>
+<br>
+<br>
+<h1>Heading 1</h1>
+<br>
+<h2>Heading 2</h2>
+</body>
+</html>
+
+
+
